@@ -7,5 +7,6 @@ Links:
 - https://www.notion.so/Additional-thoughts-open-editing-6594b5206f6b49ea8b959458e9225d99
 - https://docs.opensea.io/docs/metadata-standards
 - https://github.com/ourzora/media-metadata-schemas
+- https://github.com/morestatic/musicmetadata/wiki/Music-NFT-Metadata
 
 
