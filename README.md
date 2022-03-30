@@ -1,4 +1,5 @@
-# Music-NFT-Metadata-Proposal
+# Music NFT Metadata Working Group
+
 Towards implementation of better music token metadata standard
 
 Links:
