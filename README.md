@@ -17,3 +17,18 @@ Links:
 - [music-nft-20220222](https://www.notion.so/music-nft-20220222-96631ddf932f4fe8837dfb2e71168e0f):
   - Authored by: TBD
   - "This schema is intentionally minimal in hopes of being forwards compatible."
+
+# Background Reading
+
+[Water & Music](https://www.waterandmusic.com/) is a newsletter and research DAO building the innovator’s guide to the music business:
+
+- https://www.waterandmusic.com/defining-music-nft-ownership-from-the-digital-to-the-analog-world/
+- https://www.waterandmusic.com/the-state-of-music-web3-tools-for-artists/
+
+More specifics:
+
+- [#MTFLabs: Blockchain](https://cris.brighton.ac.uk/ws/portalfiles/portal/486119/Blockchain-Whitepaper.pdf%092016) (2016)
+- [Watermarking technologies and blockchain in the music industry](https://www.digimarc.com/docs/default-source/digimarc-resources/whitepaper-blockchain-in-music-industry.pdf?sfvrsn=2) (Digimarc, 2017)
+- [Towards an Open and Scalable Music Metadata Layer](https://arxiv.org/pdf/1911.08278.pdf) (Berklee/MIT, 2019)
+- [Fair Music: Transparency and Payment Flows in the Music Industry](https://creativepassport.net/wp-content/uploads/2019/10/Fair-Music-Transparency-and-Payment-Flows-in-the-Music-Industry.pdf) (Rethink Music, 2019)
+- [The Genesis of Music3](https://gateway.pinata.cloud/ipfs/QmX9tuaHepxwaTwTU5TnWDksWNSSm2JWNncc2avLABTavc) (MODA DAO, 2021)
