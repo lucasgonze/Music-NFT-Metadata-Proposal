@@ -1,6 +1,6 @@
 # Music NFT Metadata Working Group
 
-Towards implementation of better music token metadata standard
+Notes from a group working wowards better music token metadata. 
 
 Links:
 - https://www.notion.so/mintsongs/A-better-music-token-metadata-standard-260506f3a5b342c6b0c893892f37e711
